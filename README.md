@@ -9,4 +9,4 @@ a java version with jdbc of siemens for team center 13
 
 - JRE64_HOME = path to java jre
 
-- SPLM_LICENSE_SERVER = 28000@WIPTC01
+- SPLM_LICENSE_SERVER = 28000@10.16.84.31
